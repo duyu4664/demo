@@ -36,6 +36,7 @@ public class SchoolSystem implements ISignUp{
         sc.print();
     }//备注1
     //备注2
+    //备注3
     @Override
     public void print() {
 
